@@ -53,7 +53,7 @@ const Dashboard = () => {
   return (
     <div>
       <Typography variant="h4" gutterBottom>
-        Dashboard de Estudiantes y Empresas
+        Dashboard de HELPU 
       </Typography>
 
       {/* Tabla de Estudiantes */}
